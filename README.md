@@ -1,6 +1,8 @@
-# test-script
+# test-script 
+# by biima-hk
+# taste lee waaye my niga
 
- apt update
+🌀 apt update
 
 🌀 apt upgrade
 
